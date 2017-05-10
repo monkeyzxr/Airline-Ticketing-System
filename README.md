@@ -1,6 +1,8 @@
 # Airline-Ticketing-System
 My C++ I project in sweet Collin
 
+created by Xiangru Zhou 
+
 *****************************************
 Project Requirements:
 
